@@ -1,8 +1,8 @@
 {
   "app": "Chuletitas",
   "channel": "v2",
-  "version": "2.4.39",
-  "updatedAt": "2026-10-02T02:37:40-05:00",
+  "version": "2.4.40",
+  "updatedAt": "2026-10-02T02:41:35-05:00",
   "files": [
     {
       "file": "Assets/amigo.jpg",
@@ -133,49 +133,49 @@
     {
       "file": "Chuletitas.Contracts.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
-      "sha256": "1070cebe4d76cc33a412aa51ca94ed9030064e7abc4ddd7bae97e8eb285e4908",
+      "sha256": "777d3af2c7c1fc8a9bdf13f3afad9a18ca705b7a5d5b2373037909f28aff24f0",
       "size": 98304
     },
     {
       "file": "Chuletitas.Module.CrashReporter.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
-      "sha256": "4ae0da757d5dada7ffaaeebc7ac3da0795eb54961b8821c5e332daf809a2c0c7",
+      "sha256": "d9a0b2606fb7184c7475cf10ef44fbfa0e21222a7c300bc0d290510bac2bc0e9",
       "size": 19968
     },
     {
       "file": "Chuletitas.Module.CreatorServices.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
-      "sha256": "b36016a400f1ad024ce280c451e8300ca8fa29929f87c17a24c29010bd9f22b2",
+      "sha256": "f609e2c07ce3e06eef2bd417af9845306115f08cc921b4c58db3c87cdbbf91f3",
       "size": 52736
     },
     {
       "file": "Chuletitas.Module.Game.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
-      "sha256": "3a09bf1b2a6f8db59dee4e5c9157d7f6180671a6eaf737253962bfdce6b1cba1",
+      "sha256": "e6718e96634af241d8e086774fba3979aea831ebcf883058ff9c7ce6fd876641",
       "size": 1574400
     },
     {
       "file": "Chuletitas.Module.Profiles.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
-      "sha256": "51ee0a37db9913f8392c938aeb30e0cd4ba0dae5032d970e4548a504c5225379",
+      "sha256": "d07ba020bba56f6973f0de20fc1685b51d4ba4bc2763e894a056b4de1d625cec",
       "size": 43520
     },
     {
       "file": "Chuletitas.deps.json",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
-      "sha256": "649720e2a58a75872f9f23da86fa8e8eddebcd18c2f602ed43696423805601a6",
+      "sha256": "197c235178e098f9418358cc046ed7145d3adff0eebe1e7496d74dab10ebd3f5",
       "size": 50112
     },
     {
       "file": "Chuletitas.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
-      "sha256": "7a1a3ad184a91e4d95a86154443db815adc15045599f60c2d6a94ced3eb5d9b2",
+      "sha256": "d4e405dd4967584ab3d4fcbba8444916b6683d8413b9e00a0e6a4273bd92ab7a",
       "size": 2638848
     },
     {
       "file": "Chuletitas.exe",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
-      "sha256": "eddc9b7b9b94ec60cd67ca109c4023b4d43e4a24a1a67d052cd13f7de25ac56b",
+      "sha256": "6f26c388c9da5a419df4c9bf2641ef3ae4e1e972444279fa1f753607265a3899",
       "size": 184832
     },
     {
@@ -1385,5 +1385,5 @@
       "size": 100648
     }
   ],
-  "releaseNotes": "2.4.39: Los mods agregados por ti antes de instalar el perfil ahora si se mudan a la instancia al darle JUGAR (antes quedaban en pendiente)."
+  "releaseNotes": "2.4.40: Corrige la descarga de actualizaciones desde el canal GitHub (el filtro exigia FileId de Drive)."
 }
