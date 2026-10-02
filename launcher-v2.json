@@ -1,8 +1,8 @@
 {
   "app": "Chuletitas",
   "channel": "v2",
-  "version": "2.4.45",
-  "updatedAt": "2026-10-02T14:43:45-05:00",
+  "version": "2.4.46",
+  "updatedAt": "2026-10-02T14:49:42-05:00",
   "files": [
     {
       "file": "Assets/amigo.jpg",
@@ -133,49 +133,49 @@
     {
       "file": "Chuletitas.Contracts.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
-      "sha256": "11731f06ef85ccadae1d40b3a61be29d196f2e25dcc271f4457561281b6b1840",
+      "sha256": "22ef6a74f98552aca2301da9fb6dd8eb5661ef571b38fc6c6f95dafe338d378d",
       "size": 98304
     },
     {
       "file": "Chuletitas.Module.CrashReporter.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
-      "sha256": "1fa8da5675563d6958b3d011254a910de582af28f5e7d3f5570caee6c4adbf0d",
+      "sha256": "55394a7450c4cfcb0d6739b4bf67594a6e23641ddaad02384939ac07034d56b1",
       "size": 19968
     },
     {
       "file": "Chuletitas.Module.CreatorServices.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
-      "sha256": "5d560b58c48979a03a247ed5236d04c0aa67559e408abfdab5e07d697f422c5d",
+      "sha256": "dd8c98741e1dfd9e04e8be41dbbe77bbd2540959f260173de98c6f3fe76534e4",
       "size": 52736
     },
     {
       "file": "Chuletitas.Module.Game.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
-      "sha256": "ee54667f901b6c687b33abc233492a332581cced274deccc64c51eeadb87a704",
+      "sha256": "44d90ccd4a137e37ffd3a399bd47d0dbae012d8d952cf5cf73a75f3e9ad115e8",
       "size": 1574400
     },
     {
       "file": "Chuletitas.Module.Profiles.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
-      "sha256": "f8fc0126f06931c5b2ae30e0c8c12e99ed324278e20016a1ef10c35b0052eedb",
+      "sha256": "6405880738eb357e07f406ca8c2ddf4de5dac1998f78d140d41b7ee56292902f",
       "size": 43520
     },
     {
       "file": "Chuletitas.deps.json",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
-      "sha256": "3ef345f8493ead03eebd5bfe7a5c4032cfd1c8ff3c2fec253378df4b6f50da54",
+      "sha256": "b8e25fc01963a6979725230fed63504bf1013c6d8fe2abc1159649815bb1e4d7",
       "size": 50112
     },
     {
       "file": "Chuletitas.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
-      "sha256": "987bf0139191ee303a96a4f19673908415b6ea262d74193ba43599cc8110d2bc",
+      "sha256": "5cd9a781f546f46cc01e518007c05d4c6d2cfcc839bb16b6527797eeeb0aff64",
       "size": 5338112
     },
     {
       "file": "Chuletitas.exe",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
-      "sha256": "2ad76805a4a3bf71b7ca5419106c2dcf955ba1084529833b4072e48c759e0461",
+      "sha256": "77c02837f83bc6450eb1d7856ff313ba241778c6ffe15694a6b3d7b293c2824b",
       "size": 184832
     },
     {
@@ -1385,5 +1385,5 @@
       "size": 100648
     }
   ],
-  "releaseNotes": "v2.4.45: Fix botones de ventana (min/max/cerrar) que quedaban fuera de pantalla; tabs usan btn-md con ancho fijo"
+  "releaseNotes": "v2.4.46: Indicador de actualizaci\u00f3n ahora es clickeable (abre notificaciones)"
 }
