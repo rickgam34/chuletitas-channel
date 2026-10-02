@@ -1,8 +1,8 @@
 {
   "app": "Chuletitas",
   "channel": "v2",
-  "version": "2.4.43",
-  "updatedAt": "2026-10-02T13:50:45-05:00",
+  "version": "2.4.44",
+  "updatedAt": "2026-10-02T14:35:16-05:00",
   "files": [
     {
       "file": "Assets/amigo.jpg",
@@ -133,49 +133,49 @@
     {
       "file": "Chuletitas.Contracts.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
-      "sha256": "897d7ec75e4cfc84f0ba8a697e11da97428addfde41f908fbfc941c539b19ec4",
+      "sha256": "e512b23fe88dea6a4d4795c3726acdb3e86fc3cae0b1c3b87f753d9e4a048993",
       "size": 98304
     },
     {
       "file": "Chuletitas.Module.CrashReporter.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
-      "sha256": "38fcd9e37655cd2988c72790205030b73b5dd27e8583268ecb61dba9906e791e",
+      "sha256": "c31c029397101d95f0383f13934823117190a388416f87be59ff44046ebdc8a9",
       "size": 19968
     },
     {
       "file": "Chuletitas.Module.CreatorServices.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
-      "sha256": "2dda84eb489cd63fb33ea45b2107de31d6f01ee105726677d02f479e8bfeaf5a",
+      "sha256": "6f0187c944557f19c08ac0eda1cae57bdc4d6937a2a3cba26d499260466bd694",
       "size": 52736
     },
     {
       "file": "Chuletitas.Module.Game.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
-      "sha256": "63d808b8e0c602bd5cfdf6a527f57bca388559b186f3f04b321ea9bb92ac56cb",
+      "sha256": "ebbbe39aed623d7e24beffa634232ee581b450c94f825e899d23aef11c66a646",
       "size": 1574400
     },
     {
       "file": "Chuletitas.Module.Profiles.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
-      "sha256": "353e755db4c0ee78771222c416fb6c7b41e169a8e68ecf71da99e51dd062d235",
+      "sha256": "56ac7ff94d9ab5190fdc1cfc39f095ad3bd858160a898c53fb81f50e0210c0a6",
       "size": 43520
     },
     {
       "file": "Chuletitas.deps.json",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
-      "sha256": "64433867badc3e645f9217229d686c2f9a543047bb510ba655cc8ea41a9b3bc3",
+      "sha256": "b4e56a7c8c21f2cd7a2be96b7b1e2180e08a36b4d002388bfb1811c7d80df0a9",
       "size": 50112
     },
     {
       "file": "Chuletitas.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
-      "sha256": "8ee069824ff63f29abef845569bb64c4e31fa95d318228c55ccb2e79f3d45af6",
-      "size": 5329920
+      "sha256": "5f8f49e2ebf217843926a22921ccb003514b51e1b8b8f9faded260e5dec4ad0a",
+      "size": 5338112
     },
     {
       "file": "Chuletitas.exe",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
-      "sha256": "da466036f1cc2a59c392909938fd1b83e25bca588e1ed009c9a662e38f944fcc",
+      "sha256": "fca7b9b298d6f049d4f0a57b2bf4e23b0736aad3cd18fa4f7f8f4a910805a7a1",
       "size": 184832
     },
     {
@@ -1385,5 +1385,5 @@
       "size": 100648
     }
   ],
-  "releaseNotes": "v2.4.43: Barra estilo foto (botones piedra gris, ladrillos), paneles dedicados Skins/Notificaciones, sistema de resource packs con pack Verano 2026"
+  "releaseNotes": "v2.4.44: Estandarizaci\u00f3n a 3 tama\u00f1os de bot\u00f3n (btn-sm/md/lg), Tienda redise\u00f1ada, instalaci\u00f3n de packs por ZIP estilo Minecraft, fixes de texto en botones"
 }
