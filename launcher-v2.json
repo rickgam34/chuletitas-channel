@@ -1,8 +1,8 @@
 {
   "app": "Chuletitas",
   "channel": "v2",
-  "version": "2.4.40",
-  "updatedAt": "2026-10-02T02:41:35-05:00",
+  "version": "2.4.41",
+  "updatedAt": "2026-10-02T11:55:37-05:00",
   "files": [
     {
       "file": "Assets/amigo.jpg",
@@ -133,49 +133,49 @@
     {
       "file": "Chuletitas.Contracts.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
-      "sha256": "777d3af2c7c1fc8a9bdf13f3afad9a18ca705b7a5d5b2373037909f28aff24f0",
+      "sha256": "c5691d6ec127f89b590e1fded5bb0af9a93d23414fed4ca035125eb625a3df0f",
       "size": 98304
     },
     {
       "file": "Chuletitas.Module.CrashReporter.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
-      "sha256": "d9a0b2606fb7184c7475cf10ef44fbfa0e21222a7c300bc0d290510bac2bc0e9",
+      "sha256": "887e0200d28586f561bd0ac7266db0315956ffcb3122067778c4b501629e8082",
       "size": 19968
     },
     {
       "file": "Chuletitas.Module.CreatorServices.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
-      "sha256": "f609e2c07ce3e06eef2bd417af9845306115f08cc921b4c58db3c87cdbbf91f3",
+      "sha256": "02b5b08b6aa3f2cd3fc879c9b7384a2c067672a3280f6baaad60687006e9de35",
       "size": 52736
     },
     {
       "file": "Chuletitas.Module.Game.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
-      "sha256": "e6718e96634af241d8e086774fba3979aea831ebcf883058ff9c7ce6fd876641",
+      "sha256": "d17208fdda588f8aadf582c649b430994dc67bd91e47b8d06e16aeb9fe4b2001",
       "size": 1574400
     },
     {
       "file": "Chuletitas.Module.Profiles.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
-      "sha256": "d07ba020bba56f6973f0de20fc1685b51d4ba4bc2763e894a056b4de1d625cec",
+      "sha256": "cb433dc3e2397b2a16aac63a066e0ca812e332a6f4ea5c38e77803c3ce87a1c9",
       "size": 43520
     },
     {
       "file": "Chuletitas.deps.json",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
-      "sha256": "197c235178e098f9418358cc046ed7145d3adff0eebe1e7496d74dab10ebd3f5",
+      "sha256": "9df6405314a19c867d31e94ec3eb7f2da53a6375ccb58c2c8252be1cadf79fa6",
       "size": 50112
     },
     {
       "file": "Chuletitas.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
-      "sha256": "d4e405dd4967584ab3d4fcbba8444916b6683d8413b9e00a0e6a4273bd92ab7a",
-      "size": 2638848
+      "sha256": "87a0e749602a44b99e43b05cb7b46b8ff6b1e7223c39b2e723e12ed25935d39a",
+      "size": 2649088
     },
     {
       "file": "Chuletitas.exe",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
-      "sha256": "6f26c388c9da5a419df4c9bf2641ef3ae4e1e972444279fa1f753607265a3899",
+      "sha256": "729bc3ecdf215946e654f657db9e9bc5814070f1bb6bbb6cb79692e6690b04ac",
       "size": 184832
     },
     {
@@ -1385,5 +1385,5 @@
       "size": 100648
     }
   ],
-  "releaseNotes": "2.4.40: Corrige la descarga de actualizaciones desde el canal GitHub (el filtro exigia FileId de Drive)."
+  "releaseNotes": "Nueva barra superior estilo Minecraft: fondo de roca negra, botones de piedra (Inicio/Perfiles/Servidores/Tienda), carita de skin y campana de notificaciones. Bot\u00f3n maximizar agregado."
 }
