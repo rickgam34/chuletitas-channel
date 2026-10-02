@@ -1,0 +1,1389 @@
+{
+  "app": "Chuletitas",
+  "channel": "v2",
+  "version": "2.4.37",
+  "updatedAt": "2026-10-02T02:15:00-05:00",
+  "files": [
+    {
+      "file": "Assets/amigo.jpg",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Assets/amigo.jpg",
+      "sha256": "fd85510b94f2b05feb9b9f113f676e78eacb142b86ea45b55193cc9bb9f08cdf",
+      "size": 11209
+    },
+    {
+      "file": "Avalonia.Base.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Base.dll",
+      "sha256": "1dafd99eacf950e08d83aa519c6b7eab528cdb0100140b2bd360482d5ea184cf",
+      "size": 1976832
+    },
+    {
+      "file": "Avalonia.Controls.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Controls.dll",
+      "sha256": "99beff9c46c9219d29583436acce78c068db479953bd6f2b8f21d2def3f63e18",
+      "size": 1050624
+    },
+    {
+      "file": "Avalonia.DesignerSupport.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.DesignerSupport.dll",
+      "sha256": "121c8ef5edad06688dbead222a0af3194382eb48b7c4ae4b35bd6d66f775a48b",
+      "size": 208384
+    },
+    {
+      "file": "Avalonia.Desktop.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Desktop.dll",
+      "sha256": "c4019b88cee268974f9e85df81c8259711f27d15ecfee7530599517be1af1c6f",
+      "size": 14848
+    },
+    {
+      "file": "Avalonia.Dialogs.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Dialogs.dll",
+      "sha256": "406dfe866ebcd4937592290ad8abb1108334eaef8f8488847b28aa22c173b5e3",
+      "size": 242688
+    },
+    {
+      "file": "Avalonia.Fonts.Inter.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Fonts.Inter.dll",
+      "sha256": "78fc41f2c1941540b0ba404a68792da7c9a90f58b0f69886ab3c8131e5834186",
+      "size": 2203136
+    },
+    {
+      "file": "Avalonia.FreeDesktop.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.FreeDesktop.dll",
+      "sha256": "cf5025f59d1ed3931064d706d96f667b8e7f20069770753f90e68b92664ef286",
+      "size": 199168
+    },
+    {
+      "file": "Avalonia.Markup.Xaml.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Markup.Xaml.dll",
+      "sha256": "39a44ae540e4f41d7349f55c3314fdae7ef7974295f0a7615c21a5e37e8545db",
+      "size": 83456
+    },
+    {
+      "file": "Avalonia.Markup.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Markup.dll",
+      "sha256": "c6a6a073f20d1cdaced612a2fe733b0e7f81767a97db5dca4a4b414bfd7c42b5",
+      "size": 58880
+    },
+    {
+      "file": "Avalonia.Metal.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Metal.dll",
+      "sha256": "4aea6edf7876a6c47fa421ce6998147188e70aa2337dca2abbf2b792a4d5d55f",
+      "size": 13824
+    },
+    {
+      "file": "Avalonia.MicroCom.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.MicroCom.dll",
+      "sha256": "e109508029c38b2433b5e4e03bcee1bc6ea79b0ffdd52cc68ce14ffc4348c0b2",
+      "size": 15360
+    },
+    {
+      "file": "Avalonia.Native.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Native.dll",
+      "sha256": "04696afee5eee78ddd4949d9fa7e7df0df39c6f7a55fdce1fa11511740a3c086",
+      "size": 291328
+    },
+    {
+      "file": "Avalonia.OpenGL.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.OpenGL.dll",
+      "sha256": "5dc4fd18d47561dbdedae5e0cc73558afb015cb2c63818210cc8c1a8f94a35da",
+      "size": 114688
+    },
+    {
+      "file": "Avalonia.Remote.Protocol.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Remote.Protocol.dll",
+      "sha256": "13f835b22abde04d7c295cdf49edc0063d65bde73f3c3011d9696f90fdd0f3df",
+      "size": 69632
+    },
+    {
+      "file": "Avalonia.Skia.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Skia.dll",
+      "sha256": "0abe9dc57a9dc9a37e0acee845749b01e3c2a02a6b2400616e89cfead7bb5a98",
+      "size": 126976
+    },
+    {
+      "file": "Avalonia.Themes.Fluent.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Themes.Fluent.dll",
+      "sha256": "7d526139015d54511e095aebf6ae1f5829eaca9f1dbfafbe90c7fe488ea7fbcf",
+      "size": 575488
+    },
+    {
+      "file": "Avalonia.Vulkan.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Vulkan.dll",
+      "sha256": "9d89d20f51458de67781ae66ec9adbfeddfe89de40e65a3d219331b6762b73d3",
+      "size": 190464
+    },
+    {
+      "file": "Avalonia.Win32.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.Win32.dll",
+      "sha256": "87ae411fd3ead1ce7b4120dd299eb4b4a46dca5caa1633efd0bba2d9b30159fb",
+      "size": 952320
+    },
+    {
+      "file": "Avalonia.X11.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.X11.dll",
+      "sha256": "5296d45dd2dade9817d1aa914e07bb10980a8d706f2816740d233ec101ec4f31",
+      "size": 329216
+    },
+    {
+      "file": "Avalonia.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Avalonia.dll",
+      "sha256": "7b744308e9fafd1d95e7403ae0b3c83e161d007caebb35eebb1fac3a22e0eb5e",
+      "size": 4096
+    },
+    {
+      "file": "Chuletitas.Contracts.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
+      "sha256": "27c810e7d821c6744ffd2953517c9dbc9c6d486fd91dbcba7e2266cb35917cd8",
+      "size": 97792
+    },
+    {
+      "file": "Chuletitas.Module.CrashReporter.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
+      "sha256": "3af3de9e16cb03ef3885f51e8425ad7ab7e9669afd9ab27670c39c22954b72c2",
+      "size": 19968
+    },
+    {
+      "file": "Chuletitas.Module.CreatorServices.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
+      "sha256": "450c13f4ef0ef39c34c9b539ce946675399a95797967f18397b4a13c403fe6a7",
+      "size": 52736
+    },
+    {
+      "file": "Chuletitas.Module.Game.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
+      "sha256": "94dc4d4c4ad5efb0b88b56ddf3d6507aa4c2249227882e2d99122e2e50d8be59",
+      "size": 1574400
+    },
+    {
+      "file": "Chuletitas.Module.Profiles.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
+      "sha256": "70b48ca4a138204690101d3a8c2e4583389fc41fee424fcd3bed22bf7f6aeec4",
+      "size": 40960
+    },
+    {
+      "file": "Chuletitas.deps.json",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
+      "sha256": "ab571ec3b87669fe193a6a113afed3f3e8aa2fcddde31d2b1c814cdc7c5f8200",
+      "size": 50112
+    },
+    {
+      "file": "Chuletitas.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
+      "sha256": "592fc33fa8e6af90ca0390122a6cab447a99b2c3fa12bff751edf2917a1265c4",
+      "size": 2638848
+    },
+    {
+      "file": "Chuletitas.exe",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
+      "sha256": "24f206489c9ab56513701e4c757d82142619b3c60c071ece2d13596645ebf974",
+      "size": 184832
+    },
+    {
+      "file": "Chuletitas.runtimeconfig.json",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.runtimeconfig.json",
+      "sha256": "bffbdf9138f1b87425faeb84b680eceeaec4c0a2f275ba8fb7ab23243a647eb5",
+      "size": 434
+    },
+    {
+      "file": "Google.Apis.Auth.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Google.Apis.Auth.dll",
+      "sha256": "a006b9607689f232afbbf82362f4a487a2d14c9c7a1780b83a7cf509af50cea3",
+      "size": 246784
+    },
+    {
+      "file": "Google.Apis.Core.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Google.Apis.Core.dll",
+      "sha256": "6a32311d8199f7bf64d1ddfb8fee1f306ed392ef69afe64b75d2c0d38a0dd76a",
+      "size": 88064
+    },
+    {
+      "file": "Google.Apis.Drive.v3.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Google.Apis.Drive.v3.dll",
+      "sha256": "6dd897b0c0b0d8d1d3a9c097a0fcd0e91ad8b352ac35221a33fc2a40e7697d5a",
+      "size": 203264
+    },
+    {
+      "file": "Google.Apis.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Google.Apis.dll",
+      "sha256": "f7abde3d030cc61e72a5415e106664b7ace0790e3c6347bc9b356f9b74768fdb",
+      "size": 84992
+    },
+    {
+      "file": "HarfBuzzSharp.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/HarfBuzzSharp.dll",
+      "sha256": "47e1a76a0714b18c861e6650782cd7c007dedd033738e34795102f02bb91576a",
+      "size": 116768
+    },
+    {
+      "file": "MicroCom.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/MicroCom.Runtime.dll",
+      "sha256": "59839e18e46b06ab23b633944ae3c3b552a300c5da389da870dfa980bcef93c1",
+      "size": 14336
+    },
+    {
+      "file": "Microsoft.CSharp.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Microsoft.CSharp.dll",
+      "sha256": "30704c86c4c052ac630e5b5bf9e04aeb1eb0677fe3c5cf8a7df36c8ab78d0b56",
+      "size": 1005392
+    },
+    {
+      "file": "Microsoft.DiaSymReader.Native.amd64.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Microsoft.DiaSymReader.Native.amd64.dll",
+      "sha256": "70e4b89978ce57ef87b28f4921f3140c383b04aa96e7f3bdb3c4ebb898fd8a72",
+      "size": 2377016
+    },
+    {
+      "file": "Microsoft.VisualBasic.Core.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Microsoft.VisualBasic.Core.dll",
+      "sha256": "bdcdd4bd2b6e2c0eec9a93187cd57ce9437c9a2324a6c6c20c55a2d1a27823be",
+      "size": 1247056
+    },
+    {
+      "file": "Microsoft.VisualBasic.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Microsoft.VisualBasic.dll",
+      "sha256": "a172fad5b53a27d32b21ba3b18e27046c1daf7451c46bea4f57f515d0eef756a",
+      "size": 17192
+    },
+    {
+      "file": "Microsoft.Win32.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Microsoft.Win32.Primitives.dll",
+      "sha256": "596160c8491d2110a36ce4cb93c736905b2c83b9b50496369f32e32ad28d2a20",
+      "size": 15184
+    },
+    {
+      "file": "Microsoft.Win32.Registry.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Microsoft.Win32.Registry.dll",
+      "sha256": "a8cc5503bbba36472d1dd3a8eebc3a8b26f0b2882e770851aab486690b23ead9",
+      "size": 120656
+    },
+    {
+      "file": "Newtonsoft.Json.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Newtonsoft.Json.dll",
+      "sha256": "a28c251dfe36d881e9e2462e171441b8b0ec156fe3f452602c9149b1b9efe05b",
+      "size": 723368
+    },
+    {
+      "file": "SkiaSharp.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/SkiaSharp.dll",
+      "sha256": "17ee1284313749f73a5cf5f309318d831741a8d6d397c998c5fc6485843c28bb",
+      "size": 437808
+    },
+    {
+      "file": "System.AppContext.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.AppContext.dll",
+      "sha256": "c3d2cb89ec473b55fcbf6f0ed601139e46159e0d2834d9d92ed74ed89e2a2879",
+      "size": 15144
+    },
+    {
+      "file": "System.Buffers.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Buffers.dll",
+      "sha256": "8cadbc77368593547381f18eafa12dd58216d7b35a60b487b66ca51a2ee3c406",
+      "size": 15184
+    },
+    {
+      "file": "System.CodeDom.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.CodeDom.dll",
+      "sha256": "4d33e2986a84d4460853e2b98d3a1ba9f8aa2950f7fa12ff6ad2e15a4bccfd18",
+      "size": 186496
+    },
+    {
+      "file": "System.Collections.Concurrent.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Collections.Concurrent.dll",
+      "sha256": "ed653ccb5dc40d0bb4ea3429165a0825705f2935a65c584ca67cba45671884c1",
+      "size": 276264
+    },
+    {
+      "file": "System.Collections.Immutable.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Collections.Immutable.dll",
+      "sha256": "6e41c8ba23968f6a9b910e3c33f66761a588f24084c4e3599214805716d6d259",
+      "size": 837456
+    },
+    {
+      "file": "System.Collections.NonGeneric.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Collections.NonGeneric.dll",
+      "sha256": "b40cdf234652b31b443164350f73e25f98c5edecfd30698789d6dbf9ca456e44",
+      "size": 104232
+    },
+    {
+      "file": "System.Collections.Specialized.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Collections.Specialized.dll",
+      "sha256": "24022887037bfaad8c89c26642712c920dcc0ababd3396d80d8b2be16637673b",
+      "size": 104272
+    },
+    {
+      "file": "System.Collections.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Collections.dll",
+      "sha256": "c6bb79b8fb32504b6327b516e6ff32017a073669ab749d3c86ed49cd5f2f0c45",
+      "size": 259880
+    },
+    {
+      "file": "System.ComponentModel.Annotations.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ComponentModel.Annotations.dll",
+      "sha256": "97060d253527bdde94022ac6d22ae4c0474cf67f40bfe8342e9420b7888b3aff",
+      "size": 198480
+    },
+    {
+      "file": "System.ComponentModel.DataAnnotations.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ComponentModel.DataAnnotations.dll",
+      "sha256": "e5b872cf98bf9f3f565877b21fdee61b569ecc586e6dc48c9199ae5e0cd100b3",
+      "size": 16720
+    },
+    {
+      "file": "System.ComponentModel.EventBasedAsync.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ComponentModel.EventBasedAsync.dll",
+      "sha256": "ce813a7cde09eba1bdd7d6661fa39c09057beddc78f554c5476c43766d763ed0",
+      "size": 46928
+    },
+    {
+      "file": "System.ComponentModel.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ComponentModel.Primitives.dll",
+      "sha256": "d981af410d4ed7939fdee47a1ee58e3db472c05f17c2b0d48e4b1ebfb2fea0e5",
+      "size": 79696
+    },
+    {
+      "file": "System.ComponentModel.TypeConverter.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ComponentModel.TypeConverter.dll",
+      "sha256": "db04940603c749719e133bb567d142d46af3a6f2f37597db398955a3896b84c2",
+      "size": 747304
+    },
+    {
+      "file": "System.ComponentModel.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ComponentModel.dll",
+      "sha256": "4d9e2e21ed5c16c100221433d1aab01409ec199c9f617e48b9fe1617989bbaa6",
+      "size": 30504
+    },
+    {
+      "file": "System.Configuration.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Configuration.dll",
+      "sha256": "39eca0e98d4b206cbff6243a04494f79ec8b19903d3427b44d64d88097d77f65",
+      "size": 19240
+    },
+    {
+      "file": "System.Console.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Console.dll",
+      "sha256": "d38105c5c790fc76ac6e4d99fe9b6c2672e4e250e191bd43593e55ae7d3b2afe",
+      "size": 173864
+    },
+    {
+      "file": "System.Core.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Core.dll",
+      "sha256": "f7414ecfd958fdfb2b4bcdd2f7778a7b26968eb453ca2c03fdf53ba4bb21674f",
+      "size": 23336
+    },
+    {
+      "file": "System.Data.Common.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Data.Common.dll",
+      "sha256": "089a74a39dceb113bea92522b227e24c881a618c5eb1e2abb166a6e8c12be0cb",
+      "size": 2860840
+    },
+    {
+      "file": "System.Data.DataSetExtensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Data.DataSetExtensions.dll",
+      "sha256": "d425011a475bb44e6b9acd4c48e8f3b428312a05ca3a649abbcd871f7102decf",
+      "size": 15696
+    },
+    {
+      "file": "System.Data.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Data.dll",
+      "sha256": "1efe79c9f164ce5da6542de89dc7f10d1feb1f38216b68f9a6b6a8ca5e3d2ac3",
+      "size": 24912
+    },
+    {
+      "file": "System.Diagnostics.Contracts.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.Contracts.dll",
+      "sha256": "a670f39c589bd9d4a994e75abc2385839649ed91a831a4ca7d9fe4f87834b492",
+      "size": 16168
+    },
+    {
+      "file": "System.Diagnostics.Debug.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.Debug.dll",
+      "sha256": "e122bd1046864476252765e356c54d2454e72a6e11bf546907de1468ca0b0cb5",
+      "size": 15656
+    },
+    {
+      "file": "System.Diagnostics.DiagnosticSource.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.DiagnosticSource.dll",
+      "sha256": "25c3bf229337a485ceacb82c00f47f2e98de68a279eb5a450550526f9cbf0448",
+      "size": 415568
+    },
+    {
+      "file": "System.Diagnostics.EventLog.Messages.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.EventLog.Messages.dll",
+      "sha256": "8f3def30d41d85e2bd87b2d2e7542d49d625f0b4d96a6dc9b03e0f49bd59b8ef",
+      "size": 800552
+    },
+    {
+      "file": "System.Diagnostics.EventLog.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.EventLog.dll",
+      "sha256": "d4ffd9e3d1044342ee557bb8be2a279f16c5f44e487ad2bb8326e9a4bd613d6b",
+      "size": 175440
+    },
+    {
+      "file": "System.Diagnostics.FileVersionInfo.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.FileVersionInfo.dll",
+      "sha256": "24b0e8ed2ea93b84ff2a26cb1f69f7d6e331f6162eae4fae4446a5556b8a8eee",
+      "size": 46888
+    },
+    {
+      "file": "System.Diagnostics.Process.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.Process.dll",
+      "sha256": "7083c7046ac4cbed1068b6ae7a777d421eeaf180e5697283fc1c6af731c32a3d",
+      "size": 337744
+    },
+    {
+      "file": "System.Diagnostics.StackTrace.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.StackTrace.dll",
+      "sha256": "7b26b1c48d500576994b3153b88fefd1e516680ae4b52cde608b8e869544b37d",
+      "size": 46888
+    },
+    {
+      "file": "System.Diagnostics.TextWriterTraceListener.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.TextWriterTraceListener.dll",
+      "sha256": "0279bba2ab8c1e023d043d802b0b3bbbf8483dd082e305391c6229382452b1c2",
+      "size": 67368
+    },
+    {
+      "file": "System.Diagnostics.Tools.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.Tools.dll",
+      "sha256": "ca4cc511a2204af2a5652c7cf870a6a5eff109f98acc72a8e2a0498f72665507",
+      "size": 15184
+    },
+    {
+      "file": "System.Diagnostics.TraceSource.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.TraceSource.dll",
+      "sha256": "2b5489bc5a6d65e109dbed6557dc2af3ba9dfb549efd18a64f37fd64255cb756",
+      "size": 145232
+    },
+    {
+      "file": "System.Diagnostics.Tracing.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Diagnostics.Tracing.dll",
+      "sha256": "6857ed7ca2c17d38f74639bacc59942599935593f9a0b33b246161c57db27eb3",
+      "size": 16168
+    },
+    {
+      "file": "System.Drawing.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Drawing.Primitives.dll",
+      "sha256": "02bd1f5644dd73789b82c3a52c8f86ef726baa1d4cce2a0c64d9dc1c29b9cb02",
+      "size": 132944
+    },
+    {
+      "file": "System.Drawing.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Drawing.dll",
+      "sha256": "97562444d2daf928cd78404156665dde55aa5ec71c6fcad705284338e4a36ebe",
+      "size": 20304
+    },
+    {
+      "file": "System.Dynamic.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Dynamic.Runtime.dll",
+      "sha256": "f6a93ad11464c19f720d34b92043dcc289885bf959b32549ee3ca24537e8b65a",
+      "size": 16208
+    },
+    {
+      "file": "System.Formats.Asn1.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Formats.Asn1.dll",
+      "sha256": "61f505f140e2c6417640a5aa47a86d148d4f6dc5317a66a7bfa2266a3ac975bf",
+      "size": 243496
+    },
+    {
+      "file": "System.Formats.Tar.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Formats.Tar.dll",
+      "sha256": "ee3132a84cf9fd170f3ae0899a996adc120a899c51dbc5534b22e8870b5aa137",
+      "size": 276304
+    },
+    {
+      "file": "System.Globalization.Calendars.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Globalization.Calendars.dll",
+      "sha256": "e0974066e338d22097f5c77e47d086bd9c5826c256034a31f21b34c4392fbb7b",
+      "size": 15696
+    },
+    {
+      "file": "System.Globalization.Extensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Globalization.Extensions.dll",
+      "sha256": "9d57e781afd06f3c6d0a54842467b29079ba2932827a76d9047a327490f1f836",
+      "size": 15144
+    },
+    {
+      "file": "System.Globalization.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Globalization.dll",
+      "sha256": "88a4c4517972878aebd264ac5150a3822d14ab3f5b9577c8372e1724b0ca8d88",
+      "size": 15656
+    },
+    {
+      "file": "System.IO.Compression.Brotli.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Compression.Brotli.dll",
+      "sha256": "46d228e5ea0e3d25b15e95d6a97a3b80e86dde2660589462f30853eb5a0c40b5",
+      "size": 83752
+    },
+    {
+      "file": "System.IO.Compression.FileSystem.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Compression.FileSystem.dll",
+      "sha256": "75972527f5c874893f0515fbe6f8d1d484354ac421ccf31af346738aa74cbc07",
+      "size": 15144
+    },
+    {
+      "file": "System.IO.Compression.Native.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Compression.Native.dll",
+      "sha256": "4f892a1f3bdf970e662435bb044b5c5e4d8f7241bce981237f57165ae12cb171",
+      "size": 828240
+    },
+    {
+      "file": "System.IO.Compression.ZipFile.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Compression.ZipFile.dll",
+      "sha256": "a8624a7c7359c1eb6767c50513a33eb9f09125089044ef0caf9d4d225b33a230",
+      "size": 55080
+    },
+    {
+      "file": "System.IO.Compression.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Compression.dll",
+      "sha256": "1f7e0ce87b7859c81d793750ea8fc58db6d1fa1b81d3cea1e73c614f66439c3c",
+      "size": 263976
+    },
+    {
+      "file": "System.IO.FileSystem.AccessControl.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.FileSystem.AccessControl.dll",
+      "sha256": "6c384ee8c0613a469f9894209f39f154d2e6e8796f9b9c02e3686a42e15d94a6",
+      "size": 104232
+    },
+    {
+      "file": "System.IO.FileSystem.DriveInfo.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.FileSystem.DriveInfo.dll",
+      "sha256": "3eea221aaa9e6066bffb63218ee292fe499bbb5db434a57225aac1b8531c0b90",
+      "size": 55080
+    },
+    {
+      "file": "System.IO.FileSystem.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.FileSystem.Primitives.dll",
+      "sha256": "fb2f15cf3356987e0120d265b7b4fbccc11dccfbae08b334a17b4e830eddc54e",
+      "size": 15184
+    },
+    {
+      "file": "System.IO.FileSystem.Watcher.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.FileSystem.Watcher.dll",
+      "sha256": "21c97f58651ea238a7018ecfa4bb4b3b6b4e682f97163ae14f8d4d145547f3f0",
+      "size": 87888
+    },
+    {
+      "file": "System.IO.FileSystem.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.FileSystem.dll",
+      "sha256": "6005e3ac5cbee19d172cc29e48ca84db8e62dff34cff95e56c3600a0a95cb170",
+      "size": 15656
+    },
+    {
+      "file": "System.IO.IsolatedStorage.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.IsolatedStorage.dll",
+      "sha256": "af7c75423c9efdf88850a7197c57e19d588a326678bbe07aa7f0b5ddb3049f59",
+      "size": 91984
+    },
+    {
+      "file": "System.IO.MemoryMappedFiles.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.MemoryMappedFiles.dll",
+      "sha256": "e3136d19090f173d2ab75c392486a1427060bd149d966cfd58f3df3308546dfd",
+      "size": 83752
+    },
+    {
+      "file": "System.IO.Pipelines.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Pipelines.dll",
+      "sha256": "86d0f5bfaaf1b2ab19331b543a736d87b5b58e72158f4ded282122b2e6665f83",
+      "size": 77984
+    },
+    {
+      "file": "System.IO.Pipes.AccessControl.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Pipes.AccessControl.dll",
+      "sha256": "fb206a579c16f5750ce10026913a7f16ad686fb37af1fc9bc997f611362b2f2e",
+      "size": 16168
+    },
+    {
+      "file": "System.IO.Pipes.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.Pipes.dll",
+      "sha256": "35030c28374b6ffa6393c2ab8ae80cf712a2f88e92a16dbbdbf6ae03f0e0d452",
+      "size": 165672
+    },
+    {
+      "file": "System.IO.UnmanagedMemoryStream.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.UnmanagedMemoryStream.dll",
+      "sha256": "9442d9391ff037cf388a9e15c171845e5436b093e3c928c60350957555393fd0",
+      "size": 15144
+    },
+    {
+      "file": "System.IO.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.IO.dll",
+      "sha256": "1ee3349f15c3a20a7394341d8d4ede2ac3d7ddbe4462f43dae828f407f84ff1d",
+      "size": 15656
+    },
+    {
+      "file": "System.Linq.Expressions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Linq.Expressions.dll",
+      "sha256": "0f99977beddc9272d56a2e16b2581cde37f2afd43e77c8209827197c098dedeb",
+      "size": 3675984
+    },
+    {
+      "file": "System.Linq.Parallel.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Linq.Parallel.dll",
+      "sha256": "4ba87321ea950874380628879c3c25332281f7f9a920a090de930570ae8af0ea",
+      "size": 804648
+    },
+    {
+      "file": "System.Linq.Queryable.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Linq.Queryable.dll",
+      "sha256": "5e14d4ab3bb2711b0cc4b197f973e9c74955a1e4c77041d5cad65e759c304232",
+      "size": 173864
+    },
+    {
+      "file": "System.Linq.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Linq.dll",
+      "sha256": "2b375e90fc687967bd95a0f47dbcba44d396923f3c98b7fe5754e34c8e4befaa",
+      "size": 542504
+    },
+    {
+      "file": "System.Management.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Management.dll",
+      "sha256": "979fee559e30cc0fc4af6f34548a225b6f08cae0a6c61d24a3e389b3f22dc9d1",
+      "size": 295600
+    },
+    {
+      "file": "System.Memory.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Memory.dll",
+      "sha256": "84242cce5eacc6963a77163986066bd0a1c2eb698b5f26dbdd5e6706e002fbc7",
+      "size": 157480
+    },
+    {
+      "file": "System.Net.Http.Json.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Http.Json.dll",
+      "sha256": "7c4b39865655dd3b695a305527b8d11092c5dcf1b786d747cd45e6c00cce5249",
+      "size": 128808
+    },
+    {
+      "file": "System.Net.Http.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Http.dll",
+      "sha256": "5102639c2037d77949340d94761c9a4c5053b940b8ae4ba2fbbe3507b8a5ec43",
+      "size": 1734440
+    },
+    {
+      "file": "System.Net.HttpListener.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.HttpListener.dll",
+      "sha256": "ad612ae83e313eb7fc2afa59b829533c8e8f36fb76d1d398262a610e85af1ccc",
+      "size": 550696
+    },
+    {
+      "file": "System.Net.Mail.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Mail.dll",
+      "sha256": "8830477bb6b18b181a2495c77038ab8a7c941897c9e46feb06f61b2013ed1c8e",
+      "size": 431952
+    },
+    {
+      "file": "System.Net.NameResolution.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.NameResolution.dll",
+      "sha256": "e8cc6c2f0d59fb018fdc4a66057e3a56a3aa5ed82fede17b2398cda88da407cd",
+      "size": 112424
+    },
+    {
+      "file": "System.Net.NetworkInformation.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.NetworkInformation.dll",
+      "sha256": "db21f0c5659d925741f7a08b0b50fc297248b0155f375f0fd7f970dd2e4cd3f0",
+      "size": 157480
+    },
+    {
+      "file": "System.Net.Ping.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Ping.dll",
+      "sha256": "3a9aab851fff6116dee3524177859e051512fadf7e209372e2d2342b51845474",
+      "size": 96040
+    },
+    {
+      "file": "System.Net.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Primitives.dll",
+      "sha256": "0f929e8581f09fe85275df7b38549bc51415cd110aadfd89eade53943174511a",
+      "size": 231248
+    },
+    {
+      "file": "System.Net.Quic.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Quic.dll",
+      "sha256": "58f5e4c6f2bbd5320c9797fbead001a99e4d334fa936d5469df82262ac8069da",
+      "size": 284456
+    },
+    {
+      "file": "System.Net.Requests.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Requests.dll",
+      "sha256": "60b7c1595cecc53767c3efcdae74ddd37350ac51f377cac8d7e95428b1f231af",
+      "size": 345896
+    },
+    {
+      "file": "System.Net.Security.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Security.dll",
+      "sha256": "c957641be9192e7812f209e2120e56a71da0d99b1a8443ca5f7947f38ea4376d",
+      "size": 669520
+    },
+    {
+      "file": "System.Net.ServicePoint.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.ServicePoint.dll",
+      "sha256": "8969d0ea32b01b7198030afe6258d85a3021655b4f7e2291cb5521bba1f7e29f",
+      "size": 46888
+    },
+    {
+      "file": "System.Net.Sockets.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.Sockets.dll",
+      "sha256": "49e95c5a59172d80941992016eb35c965d8fb4bc05b745f85e793b6c010bdc6b",
+      "size": 546600
+    },
+    {
+      "file": "System.Net.WebClient.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.WebClient.dll",
+      "sha256": "2c8ad06a15aee44e700cbff2bdf1da0000fcaa4e8ba5524e9db1b07c3add099e",
+      "size": 169768
+    },
+    {
+      "file": "System.Net.WebHeaderCollection.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.WebHeaderCollection.dll",
+      "sha256": "8db64dd40a80422673f81ec67ee9df921795b0579e5ba6cef09bffce7fef1294",
+      "size": 67368
+    },
+    {
+      "file": "System.Net.WebProxy.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.WebProxy.dll",
+      "sha256": "cfd65e84a782db8180c9bb3bf6eb739f250901e1006d941d66f08d6b6edb0b0e",
+      "size": 42792
+    },
+    {
+      "file": "System.Net.WebSockets.Client.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.WebSockets.Client.dll",
+      "sha256": "41836162542928ad88ac7a0176cbdc753f63da986d668688f7fb049b2ef0aee9",
+      "size": 100136
+    },
+    {
+      "file": "System.Net.WebSockets.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.WebSockets.dll",
+      "sha256": "1250d5f182a8c3655a81b1e11955d904fd147d7f770191de4004619247178629",
+      "size": 190288
+    },
+    {
+      "file": "System.Net.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Net.dll",
+      "sha256": "c2ddcdff66bbb2595e5bcaca342d600a81c9a2e618ac9b9b1c6977fc4e1d17fc",
+      "size": 17232
+    },
+    {
+      "file": "System.Numerics.Vectors.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Numerics.Vectors.dll",
+      "sha256": "6e45388834e11d4a8e460f97da371d6889cdf98d7b65b300079c2f2b69ea3faf",
+      "size": 15656
+    },
+    {
+      "file": "System.Numerics.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Numerics.dll",
+      "sha256": "adb2dda9bbfc24d694b77e1700f2df0706ff077de8f40dd09ababc92459f2e2b",
+      "size": 15184
+    },
+    {
+      "file": "System.ObjectModel.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ObjectModel.dll",
+      "sha256": "35187a8d7f9dc8896894d1a0a496fbabcd567f2ac0f047632f7178c308ff72f5",
+      "size": 79656
+    },
+    {
+      "file": "System.Private.CoreLib.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Private.CoreLib.dll",
+      "sha256": "99b168b84597a4f31fda8281efce7d42a14e2df0f4694194735e049dbc0f6418",
+      "size": 13174608
+    },
+    {
+      "file": "System.Private.DataContractSerialization.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Private.DataContractSerialization.dll",
+      "sha256": "f3d2acd4d5adeabb40991cd1c757d05640b64cdd89f59874cffe7bbd6ed38b97",
+      "size": 2082600
+    },
+    {
+      "file": "System.Private.Uri.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Private.Uri.dll",
+      "sha256": "f2a695dcd4073eaba43b4ee26f006c0174bff42673e17b38914450ca7d2547f5",
+      "size": 259920
+    },
+    {
+      "file": "System.Private.Xml.Linq.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Private.Xml.Linq.dll",
+      "sha256": "5de081135173dd027bdc3f6285beaa31d184cff8d217d681d405e038d1819721",
+      "size": 403240
+    },
+    {
+      "file": "System.Private.Xml.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Private.Xml.dll",
+      "sha256": "f7285c6a22e221784f1d81f884283e9dcd02aa7bfd17c428943d29e00170d749",
+      "size": 7997264
+    },
+    {
+      "file": "System.Reflection.DispatchProxy.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.DispatchProxy.dll",
+      "sha256": "2f926a9f911d11b98c71e67b7e91f883c58b3b095794a8ac69a5cdbfd37c60c4",
+      "size": 75560
+    },
+    {
+      "file": "System.Reflection.Emit.ILGeneration.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.Emit.ILGeneration.dll",
+      "sha256": "ed892838c6ed6649ab57a436128845ec195329cdf568c99d9cb8e6f4b92c7a01",
+      "size": 15656
+    },
+    {
+      "file": "System.Reflection.Emit.Lightweight.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.Emit.Lightweight.dll",
+      "sha256": "39cf409e3b41b813c9e715ec4f38bc02748499d62e89f71fd8f4dad6ebba80bb",
+      "size": 15656
+    },
+    {
+      "file": "System.Reflection.Emit.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.Emit.dll",
+      "sha256": "51742f48054d452de444da58d4ac69b879a23bbc8841b4b08fc337745d50cb07",
+      "size": 128808
+    },
+    {
+      "file": "System.Reflection.Extensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.Extensions.dll",
+      "sha256": "3adaaf6f0dcd0208ab0282a774801486444af53118015ac12e0c6f8623d3f3ce",
+      "size": 15144
+    },
+    {
+      "file": "System.Reflection.Metadata.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.Metadata.dll",
+      "sha256": "1795022b24ddf1e4db47f63035b685f2a9f3e4468fb277158bb909d3b6ec00a0",
+      "size": 1115944
+    },
+    {
+      "file": "System.Reflection.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.Primitives.dll",
+      "sha256": "b15b177125f391d1caee193167caffbec4ac2586447f822ac655ace9a6bdff41",
+      "size": 15656
+    },
+    {
+      "file": "System.Reflection.TypeExtensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.TypeExtensions.dll",
+      "sha256": "191c401d245fbbe8d6e0105a53db610122871168e21ac849be6fbc86bb786048",
+      "size": 42792
+    },
+    {
+      "file": "System.Reflection.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Reflection.dll",
+      "sha256": "558837b6bcaf55fdbb3e7d8f565f0c04d9b415823d0abe382ac31643db3639de",
+      "size": 16168
+    },
+    {
+      "file": "System.Resources.Reader.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Resources.Reader.dll",
+      "sha256": "34b31e5093ff2564fccde4b43c31330bc4cbc6cf24c38cb929d34f1ffb46d0fb",
+      "size": 15184
+    },
+    {
+      "file": "System.Resources.ResourceManager.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Resources.ResourceManager.dll",
+      "sha256": "d0db07a7e954edbef7d586907574068ea2764e28acb7f5a64fd6006ee8889d93",
+      "size": 15656
+    },
+    {
+      "file": "System.Resources.Writer.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Resources.Writer.dll",
+      "sha256": "a09c234e643b0391367f975241592002270eb9bd5516f0d75b31f82be6426dd6",
+      "size": 50984
+    },
+    {
+      "file": "System.Runtime.CompilerServices.Unsafe.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.CompilerServices.Unsafe.dll",
+      "sha256": "69edf8cb4bfe291ff998f2ab0cea2f3b7f32664c53e9b9171a35f0664fc047cf",
+      "size": 15144
+    },
+    {
+      "file": "System.Runtime.CompilerServices.VisualC.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.CompilerServices.VisualC.dll",
+      "sha256": "b0216c72f28e06bf4ee3c7561b5c483224847e5f40df6d939d2afbe731e2cfd2",
+      "size": 30544
+    },
+    {
+      "file": "System.Runtime.Extensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Extensions.dll",
+      "sha256": "7e7a6460090cf9170b336ca12511ea8d793c281a79ccff9f96db88db74b97ff6",
+      "size": 17704
+    },
+    {
+      "file": "System.Runtime.Handles.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Handles.dll",
+      "sha256": "9b193371a3e739f81e601e343c60d6214e0b3966833f4eaebdcfb49f8217e97f",
+      "size": 15144
+    },
+    {
+      "file": "System.Runtime.InteropServices.JavaScript.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.InteropServices.JavaScript.dll",
+      "sha256": "7cefe89e6502602a7e0256960f5f587046016cdb9b822a104e0bf961178dcf2a",
+      "size": 50984
+    },
+    {
+      "file": "System.Runtime.InteropServices.RuntimeInformation.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "sha256": "c7fdcd989c4732af5d8c5c00a5ce68d48fa6f500dee37aa3fd716fb260b01338",
+      "size": 15144
+    },
+    {
+      "file": "System.Runtime.InteropServices.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.InteropServices.dll",
+      "sha256": "1930aea4d91654a4daf13bf95b2daff023d3104a9b3794059ea139e550bcfb5f",
+      "size": 96080
+    },
+    {
+      "file": "System.Runtime.Intrinsics.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Intrinsics.dll",
+      "sha256": "8679a62575619caa282d3fb1a1ead4680417b0384ffed8b73a2c4f7dc102c32b",
+      "size": 16720
+    },
+    {
+      "file": "System.Runtime.Loader.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Loader.dll",
+      "sha256": "64ac3644e7fd9279b5410e9c8d31df01f763b4a362e626e6dd96416a9f6755b3",
+      "size": 15696
+    },
+    {
+      "file": "System.Runtime.Numerics.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Numerics.dll",
+      "sha256": "d845c2a3d8edc282d5c32fd8020c2233fbeed3eb02b5064ab8637506049cfb70",
+      "size": 329552
+    },
+    {
+      "file": "System.Runtime.Serialization.Formatters.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Serialization.Formatters.dll",
+      "sha256": "10c352dba07e5de49fe362edd9d8a44cfc60cd0136a48eb1a5104da30d2333e5",
+      "size": 309032
+    },
+    {
+      "file": "System.Runtime.Serialization.Json.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Serialization.Json.dll",
+      "sha256": "70d7013dcd8aa116954f6efb1643c4db01927f75e362c5807f795e443d1eaa9a",
+      "size": 15656
+    },
+    {
+      "file": "System.Runtime.Serialization.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Serialization.Primitives.dll",
+      "sha256": "65b4fdca2b36d551fa88c1cb8d7646ef9f29097b96487ab08fcf31f5dc9afe86",
+      "size": 38736
+    },
+    {
+      "file": "System.Runtime.Serialization.Xml.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Serialization.Xml.dll",
+      "sha256": "875ef1fe60647f5bb00a756ad9e7bb0c4a579d35acead8386f27f8c7479ae5e0",
+      "size": 16680
+    },
+    {
+      "file": "System.Runtime.Serialization.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.Serialization.dll",
+      "sha256": "a4a2cd5a396a851e444c5e6ab82c6353a1d83906b65968a15cd8d57540b4f9c3",
+      "size": 16680
+    },
+    {
+      "file": "System.Runtime.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Runtime.dll",
+      "sha256": "e8fb5b78dc75b0650520042936fca2165a060cb4afa4b8cce90524c9c9fc3563",
+      "size": 43304
+    },
+    {
+      "file": "System.Security.AccessControl.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.AccessControl.dll",
+      "sha256": "149888fd2b8f15b37ba115e2bb3c0577c8db9aed6f91221902ad6c9a61a69a49",
+      "size": 231248
+    },
+    {
+      "file": "System.Security.Claims.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Claims.dll",
+      "sha256": "45171f0ad174047cbf511e7761d7abb2d44988e899f690c36ff3c5bcfbcb2467",
+      "size": 100176
+    },
+    {
+      "file": "System.Security.Cryptography.Algorithms.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.Algorithms.dll",
+      "sha256": "e1bdf2d837d0c8c582b1f98992511421c3e5130b42603f868ef0b5c8c2609f92",
+      "size": 17192
+    },
+    {
+      "file": "System.Security.Cryptography.Cng.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.Cng.dll",
+      "sha256": "7b6deb57bd6a2f0123527f04be5ccca9a8b30f4f09a97e6f32519b651496a7f6",
+      "size": 16168
+    },
+    {
+      "file": "System.Security.Cryptography.Csp.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.Csp.dll",
+      "sha256": "8689e9d5ea215c4e92d8229da7dbc3fabee8997083876fed1927c4d643aef3f9",
+      "size": 15656
+    },
+    {
+      "file": "System.Security.Cryptography.Encoding.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.Encoding.dll",
+      "sha256": "bad69fae75cc6ea5c8cf0a953489b323857a3c8cba80418f09e98535380a6b8d",
+      "size": 15696
+    },
+    {
+      "file": "System.Security.Cryptography.OpenSsl.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.OpenSsl.dll",
+      "sha256": "5d580c0cafc4492dac0c4fa11ae46dd1309835ab12671b326f0b74428539d4b5",
+      "size": 15144
+    },
+    {
+      "file": "System.Security.Cryptography.Primitives.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.Primitives.dll",
+      "sha256": "a214418a0b70a48772e274ccda284d3cfc2392abf4aba55718c70324fb78a239",
+      "size": 15696
+    },
+    {
+      "file": "System.Security.Cryptography.X509Certificates.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.X509Certificates.dll",
+      "sha256": "07643c4b239dd2a9326c0a62491995be666a47d2c85d0455ca7379a1692fa284",
+      "size": 16680
+    },
+    {
+      "file": "System.Security.Cryptography.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Cryptography.dll",
+      "sha256": "1e4c4ce04a46e2a2da8221bf583ebd4f6b5149d4b32792cacc5c33978d0bb121",
+      "size": 2049872
+    },
+    {
+      "file": "System.Security.Principal.Windows.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Principal.Windows.dll",
+      "sha256": "aace487981f8c9077620abf9c9d236ce5ef98241cf4222fbb49c717286f2cd0f",
+      "size": 186152
+    },
+    {
+      "file": "System.Security.Principal.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.Principal.dll",
+      "sha256": "aee0a10edcf634876126b0de882d01f432de3eb7cbfca0565e330efe336d6dc0",
+      "size": 15144
+    },
+    {
+      "file": "System.Security.SecureString.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.SecureString.dll",
+      "sha256": "a8c666cce29278836fee40d1058ebb55b56631056a26117176fce6adb793187f",
+      "size": 15184
+    },
+    {
+      "file": "System.Security.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Security.dll",
+      "sha256": "ede7d28de4bfec4192915fb98b35f8979ed1e4a20a7333a7d2aea45e733a9495",
+      "size": 18256
+    },
+    {
+      "file": "System.ServiceModel.Web.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ServiceModel.Web.dll",
+      "sha256": "059d12d427d2cf95f90f5ca817c30d12d504db13a031cf5dce53bafceacd3800",
+      "size": 16720
+    },
+    {
+      "file": "System.ServiceProcess.ServiceController.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ServiceProcess.ServiceController.dll",
+      "sha256": "8cb99857d339f3a03dce80547938b9efb56ac703245a1035d55fb1d0f4d9326c",
+      "size": 90920
+    },
+    {
+      "file": "System.ServiceProcess.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ServiceProcess.dll",
+      "sha256": "41a80e894c84cc938193a95a0c37fc0d3351d3b090e4fc2fe903cc384d55af2a",
+      "size": 15656
+    },
+    {
+      "file": "System.Text.Encoding.CodePages.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Text.Encoding.CodePages.dll",
+      "sha256": "a597e456ac579a3814d4c11cd649cb188df0d4dc27ff9ae59e36664cca0927a9",
+      "size": 861992
+    },
+    {
+      "file": "System.Text.Encoding.Extensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Text.Encoding.Extensions.dll",
+      "sha256": "9ad4679a4005eadc13af6ae025534f22648ded33ab7c1a796c70c8813ee51977",
+      "size": 15656
+    },
+    {
+      "file": "System.Text.Encoding.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Text.Encoding.dll",
+      "sha256": "c0dda0da1aeadba8a3baa8d4704c5e4d9dadc715f72fa11c6a25899a5fa6a35b",
+      "size": 15656
+    },
+    {
+      "file": "System.Text.Encodings.Web.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Text.Encodings.Web.dll",
+      "sha256": "94afad93dfdd00e132467753615bfb4bc3fa6633701082a9553d6cb4eaccf2ac",
+      "size": 132904
+    },
+    {
+      "file": "System.Text.Json.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Text.Json.dll",
+      "sha256": "9cf2e2ae44376dbea191925e571af703c6d7b53a5c138a0f0f13cd6b8af2c904",
+      "size": 1501008
+    },
+    {
+      "file": "System.Text.RegularExpressions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Text.RegularExpressions.dll",
+      "sha256": "8b3af9e3e0215b46c2dcef1f11c4cdc7ad477140883bcb5c778d04cc051bb0dc",
+      "size": 1021736
+    },
+    {
+      "file": "System.Threading.Channels.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Channels.dll",
+      "sha256": "ab05f710069580165c588789e0623e84d213c35594e3e12ae762a6c8265740b6",
+      "size": 132944
+    },
+    {
+      "file": "System.Threading.Overlapped.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Overlapped.dll",
+      "sha256": "739bfb326810706f497df3b66901e5657b9835ad945fdc6728a27bf932cbafaa",
+      "size": 15656
+    },
+    {
+      "file": "System.Threading.Tasks.Dataflow.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Tasks.Dataflow.dll",
+      "sha256": "39def3e572cf7e4bbf11f6565b0a25db2540d8041c2950e48029e24c14e06342",
+      "size": 489256
+    },
+    {
+      "file": "System.Threading.Tasks.Extensions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Tasks.Extensions.dll",
+      "sha256": "336e8d8f0e79bfff0c6c38d4a7677384b7951ff66394664bf4fb866ed0bba982",
+      "size": 15656
+    },
+    {
+      "file": "System.Threading.Tasks.Parallel.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Tasks.Parallel.dll",
+      "sha256": "08ffb9101534e1644c203427bd22b3beecaab021f4ce40f4b162b898e2fa66f7",
+      "size": 132904
+    },
+    {
+      "file": "System.Threading.Tasks.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Tasks.dll",
+      "sha256": "d965e3057dca46b1e8d56012e623a4772ab5ab009231450fdb0f4d2f3875c374",
+      "size": 16680
+    },
+    {
+      "file": "System.Threading.Thread.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Thread.dll",
+      "sha256": "34ed4d7d03bf9a5a5df7addc37a5b75759956fc0d949e25df61d878238bc560a",
+      "size": 15656
+    },
+    {
+      "file": "System.Threading.ThreadPool.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.ThreadPool.dll",
+      "sha256": "5758d73199750af708edca8456eed908b0bfdaaccd7cb2083a6c95dad4006fdb",
+      "size": 15656
+    },
+    {
+      "file": "System.Threading.Timer.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.Timer.dll",
+      "sha256": "39e1b46a16ba5d4a4d7687dcda0b8838e45198544417d227c7f174c8e15df56d",
+      "size": 15144
+    },
+    {
+      "file": "System.Threading.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Threading.dll",
+      "sha256": "435c110b598d30f118d0e673068b535b693c5a77fae17398ad46821ce1261aba",
+      "size": 83752
+    },
+    {
+      "file": "System.Transactions.Local.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Transactions.Local.dll",
+      "sha256": "5428f4bcae83612694e1bec71849ffffe7ef34f62aa46daf3f01250adb019bd8",
+      "size": 661328
+    },
+    {
+      "file": "System.Transactions.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Transactions.dll",
+      "sha256": "2203532bf5483e00686b4f26610a6b9070e59da55f5218d4294c2c069c6fdfb9",
+      "size": 16168
+    },
+    {
+      "file": "System.ValueTuple.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.ValueTuple.dll",
+      "sha256": "2079ad867339bd4e2dc4d0e1c9250d9f78e4016da472c25fef3c78756244ac5b",
+      "size": 15144
+    },
+    {
+      "file": "System.Web.HttpUtility.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Web.HttpUtility.dll",
+      "sha256": "351125823b848b8cd9e2541b1e0f13add351b6dd3c34a6acb8c243565e5c6251",
+      "size": 59216
+    },
+    {
+      "file": "System.Web.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Web.dll",
+      "sha256": "fc90f7d949615646b8d5af798cfb2bd37fbfe21b1c790b6a2e049bea36758e2d",
+      "size": 15144
+    },
+    {
+      "file": "System.Windows.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Windows.dll",
+      "sha256": "113a298c5e1887f9cc2371376e6aeadf631958c1c255ebac18282da7829d3c49",
+      "size": 15656
+    },
+    {
+      "file": "System.Xml.Linq.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.Linq.dll",
+      "sha256": "64cab6d274de20fb8ec0d080b96091e85af0ddfc9619869169e8c41d5c1b02c0",
+      "size": 15656
+    },
+    {
+      "file": "System.Xml.ReaderWriter.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.ReaderWriter.dll",
+      "sha256": "7cbf62bea50b44b1350fc241281b8c5bf1373cb9ad03304b10f5b0d4805edb47",
+      "size": 21800
+    },
+    {
+      "file": "System.Xml.Serialization.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.Serialization.dll",
+      "sha256": "7823bbfdcb819bd585488adeb6612cab2357dc2df5e4a85e0f2a02079c2ec736",
+      "size": 16168
+    },
+    {
+      "file": "System.Xml.XDocument.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.XDocument.dll",
+      "sha256": "e5a4ef2a7f8c927dc5c587eeb4b5bf1a7264a89825c3d7313082447d3446a11b",
+      "size": 15656
+    },
+    {
+      "file": "System.Xml.XPath.XDocument.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.XPath.XDocument.dll",
+      "sha256": "01f4f51c85b1533eef9ef35fcec4c281565e661a415f7cb10422c3840c5973f7",
+      "size": 30544
+    },
+    {
+      "file": "System.Xml.XPath.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.XPath.dll",
+      "sha256": "cd0b232b8b161a4167b77387885b13e6bf938dfce4addfd68a646fa2e5471fcf",
+      "size": 15696
+    },
+    {
+      "file": "System.Xml.XmlDocument.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.XmlDocument.dll",
+      "sha256": "48781bea76ddce3732f316bcc01bb375910b18b4d83de62b6570835e09dab363",
+      "size": 15656
+    },
+    {
+      "file": "System.Xml.XmlSerializer.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.XmlSerializer.dll",
+      "sha256": "ea1eb8da8a46bafe8ee7a8628900e5c4a3fe23cabc7d63d5be5eb5edd3fb76fb",
+      "size": 17744
+    },
+    {
+      "file": "System.Xml.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.Xml.dll",
+      "sha256": "0d13174940cbd34ccdb350b2f33037cff214420850cbf5755d9c407ba8a42407",
+      "size": 23376
+    },
+    {
+      "file": "System.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/System.dll",
+      "sha256": "173dd55a6d19794fb6eb8c4e4e73510ebf3a7928affe43c21e721861a4250e51",
+      "size": 49960
+    },
+    {
+      "file": "Tmds.DBus.Protocol.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Tmds.DBus.Protocol.dll",
+      "sha256": "ecebf49f86ef70050c34a831cdc771ab7885f7511506dcf7636016c44415443b",
+      "size": 177664
+    },
+    {
+      "file": "WindowsBase.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/WindowsBase.dll",
+      "sha256": "d2b82fd6347b45b6bc3ff23c60d215a8431906d25b68bf84a2ff6a0b2c46ae9e",
+      "size": 16208
+    },
+    {
+      "file": "av_libglesv2.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/av_libglesv2.dll",
+      "sha256": "caff1be1faee32f7c5bfba9162ee617c347aad40772caa9a1aff794e3a191420",
+      "size": 4440576
+    },
+    {
+      "file": "clretwrc.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/clretwrc.dll",
+      "sha256": "bc233572d7702ec8d8763c143ec62687c38abc3aad26336fb45c26657bf3a5e7",
+      "size": 310568
+    },
+    {
+      "file": "clrgc.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/clrgc.dll",
+      "sha256": "b09898e142791ea3b96fd1b432d0e5c8ad51c81cd99b608accd2981e78a93cdf",
+      "size": 667944
+    },
+    {
+      "file": "clrjit.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/clrjit.dll",
+      "sha256": "697c09ac310b8fb8118863971955da135aee348116816e3b511bf5957dc6253a",
+      "size": 1777960
+    },
+    {
+      "file": "coreclr.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/coreclr.dll",
+      "sha256": "bbbcaedb369617695280caaa60cda1aba4fa3c5b557532a89d9f4a9174a5b692",
+      "size": 4995880
+    },
+    {
+      "file": "createdump.exe",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/createdump.exe",
+      "sha256": "beba75ffcd188a0ce594c304c737caf16681e1af19bdd7bb47b3f0eb8636c320",
+      "size": 71512
+    },
+    {
+      "file": "hostfxr.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/hostfxr.dll",
+      "sha256": "4f5a0500cd2a2439b0d5edbf242950233aec4539ec9a5e7ba9b8a9b0079f63af",
+      "size": 366376
+    },
+    {
+      "file": "hostpolicy.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/hostpolicy.dll",
+      "sha256": "24f18ccb306d5e614932478471ad276e2b041a723a45e571073db383b37c5120",
+      "size": 406824
+    },
+    {
+      "file": "libHarfBuzzSharp.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/libHarfBuzzSharp.dll",
+      "sha256": "a54cfda99ffb965d4daa307c381763051ee638b629bfc0f424feb7a8046a7e36",
+      "size": 1607208
+    },
+    {
+      "file": "libSkiaSharp.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/libSkiaSharp.dll",
+      "sha256": "9a0d95e8caaa852c70d085af6a40a744242172ad9ea3fd6bc7599875a8a1dbcd",
+      "size": 9414216
+    },
+    {
+      "file": "mscordaccore.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/mscordaccore.dll",
+      "sha256": "a277f63f5722e1ed59a791fc5d30c53ed263abef4adf12d0bf494897d796c3e0",
+      "size": 1348960
+    },
+    {
+      "file": "mscordaccore_amd64_amd64_8.0.3126.42015.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/mscordaccore_amd64_amd64_8.0.3126.42015.dll",
+      "sha256": "a277f63f5722e1ed59a791fc5d30c53ed263abef4adf12d0bf494897d796c3e0",
+      "size": 1348960
+    },
+    {
+      "file": "mscordbi.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/mscordbi.dll",
+      "sha256": "20140e71ed6dd59e6736e455b7be2784d7ac0b3f43839148a134aec3e7622de0",
+      "size": 1233800
+    },
+    {
+      "file": "mscorlib.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/mscorlib.dll",
+      "sha256": "ee4983e136ab524f29d2f43d01d1deb978f4948eb5ca05b5d6e40be37ec43023",
+      "size": 59216
+    },
+    {
+      "file": "mscorrc.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/mscorrc.dll",
+      "sha256": "c0fc4c625ce2c62887a86a5e1d93895836e7c998a3c95169505f8515266160fc",
+      "size": 136488
+    },
+    {
+      "file": "msquic.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/msquic.dll",
+      "sha256": "b7158d427b01c70483bb3d80c5211e387dd98e9471c8a70e4484d449de9157e8",
+      "size": 536344
+    },
+    {
+      "file": "netstandard.dll",
+      "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/netstandard.dll",
+      "sha256": "53d854d33c3f0e1bbccff4b5c4b89420daa66fa5f6603f6e5df20d6bbb7e00f4",
+      "size": 100648
+    }
+  ],
+  "releaseNotes": "2.4.37: Exportar e importar modpacks .mrpack: comparte perfiles con amigos sin subir nada a Drive. Los mods sin modificar se referencian, los modificados se incluyen solos; shaderpacks, resourcepacks y configs opcionales. Botones Exportar en el detalle del perfil e Importar en Perfiles."
+}
