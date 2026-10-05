@@ -1,8 +1,8 @@
 {
   "app": "Chuletitas",
   "channel": "v2",
-  "version": "2.4.55",
-  "updatedAt": "2026-10-04T21:46:56-05:00",
+  "version": "2.4.56",
+  "updatedAt": "2026-10-04T21:51:30-05:00",
   "files": [
     {
       "file": "Assets/amigo.jpg",
@@ -133,49 +133,49 @@
     {
       "file": "Chuletitas.Contracts.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
-      "sha256": "30d3b5a9f8d952f3941d6d08b7e9850fee242fd089fa037811d045e6f39cffd2",
+      "sha256": "e4aa02b762764321bb1ddc6218eccdd36269138fbfad7e0e296747e1326152c4",
       "size": 98816
     },
     {
       "file": "Chuletitas.Module.CrashReporter.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
-      "sha256": "27b9c1308b6b5bf4f3f0d11f6188a6be8e0a1a315ea637e07e097b6cddeabe3f",
+      "sha256": "753917a23457334b0b093965c8a7c6adae57df2c2a414443669aebd9aa8533f7",
       "size": 19968
     },
     {
       "file": "Chuletitas.Module.CreatorServices.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
-      "sha256": "1561d846e37cf231a737f66aee5a40c7254f8e7b8e37ca0013ca066206747f7f",
+      "sha256": "00ffcfef970066ddee03e740eee0185bbf18fc894e5647e98696cac5474620cf",
       "size": 53760
     },
     {
       "file": "Chuletitas.Module.Game.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
-      "sha256": "d672464b4bf0dad80d8611710b20b10552e8207bb643288f1d500ce605867e2a",
+      "sha256": "3216a1fa8a1ac9e6eadaffe6ffa891c67721dca057973070cedfd800e71497c1",
       "size": 1574400
     },
     {
       "file": "Chuletitas.Module.Profiles.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
-      "sha256": "a7d77ccdd896df512aef868aee6e93facbf87550966c201637554195e664abc2",
+      "sha256": "3ff8c4ef7a9762a90cc890c4a222f61e0c41fb0428a7f05aa7cc38444f98bc6a",
       "size": 43520
     },
     {
       "file": "Chuletitas.deps.json",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
-      "sha256": "81c29002ce735a88f989dd54526bd4cfb2cdaae25a558e0e9f154bf2a102c37d",
+      "sha256": "50c127014708d80e014c8555b4c985556df237fa138416aa5a71fafbe23b7446",
       "size": 50112
     },
     {
       "file": "Chuletitas.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
-      "sha256": "ab942511c3bf67e6f8746084fd1438e927bf31bef2c969fe38baf8559d9194d1",
+      "sha256": "11f7119f8db9a263349d4daf6ff0d00c762213f21b60491acf851b678fa0797b",
       "size": 19655168
     },
     {
       "file": "Chuletitas.exe",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
-      "sha256": "4fd8076c962fde612f29277ce835187362db5ccf08fb89b32ffefe896fbd789c",
+      "sha256": "8f70226e663a61472e4009262c5150a0478bcbbf5720d7758fca2da0a817792b",
       "size": 184832
     },
     {
@@ -1385,5 +1385,5 @@
       "size": 100648
     }
   ],
-  "releaseNotes": "2.4.55"
+  "releaseNotes": "2.4.56"
 }
