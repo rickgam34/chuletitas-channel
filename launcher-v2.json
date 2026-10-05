@@ -1,8 +1,8 @@
 {
   "app": "Chuletitas",
   "channel": "v2",
-  "version": "2.4.51",
-  "updatedAt": "2026-10-03T21:50:04-05:00",
+  "version": "2.4.52",
+  "updatedAt": "2026-10-04T21:21:16-05:00",
   "files": [
     {
       "file": "Assets/amigo.jpg",
@@ -133,49 +133,49 @@
     {
       "file": "Chuletitas.Contracts.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Contracts.dll",
-      "sha256": "4d640687b0ac62361dbcbb2cc8868bad4d535f366861045bd1240cbd66893fe2",
+      "sha256": "3f6011940e94eb8fdd545fc48657f27b4835dfbdd8576ede657752759e75a5c1",
       "size": 98304
     },
     {
       "file": "Chuletitas.Module.CrashReporter.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CrashReporter.dll",
-      "sha256": "39a5e025e1aa455eae312848242f58326296c9a612c43e40a444a99b3219c03e",
+      "sha256": "dc480e2365c19e762a320e3b049683acdd1d2bf116f8bda399136e30d1542f88",
       "size": 19968
     },
     {
       "file": "Chuletitas.Module.CreatorServices.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.CreatorServices.dll",
-      "sha256": "fcc063483179d27abed2db084fa006eab3cb91be298760410c0069ecbaa5cc3a",
+      "sha256": "deb05954d4bc23cb05a22084ed8b6fc510648d5ef1818f130ab320e30b43ef80",
       "size": 52736
     },
     {
       "file": "Chuletitas.Module.Game.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Game.dll",
-      "sha256": "5de380a30b6c4ed0afd653cd306269dcbb5609c48110c3c83b72dc85ef945964",
+      "sha256": "1ef2361d751c08829e6c988f44134aee3245adfbbe31cf1c450cd7278b4ab125",
       "size": 1574400
     },
     {
       "file": "Chuletitas.Module.Profiles.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.Module.Profiles.dll",
-      "sha256": "cc48edfaa9f2f56571e577c1bdf2af2441a5b5435e9cc43920f41abcd017837a",
+      "sha256": "25005328bef91979aa99357c0e98b97d328e141344f498342cec255dcb1158ff",
       "size": 43520
     },
     {
       "file": "Chuletitas.deps.json",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.deps.json",
-      "sha256": "9a2c24ac7039341816b6fc755a72369d270615cc7af7c99c2bfcfa9b7248979e",
+      "sha256": "65935ed000735f2b630c010137cd9ae8bc4c4b509e92d08d87e269038f2092ec",
       "size": 50112
     },
     {
       "file": "Chuletitas.dll",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.dll",
-      "sha256": "fe5d3320b944c4743f313864f253d7c4d739841d7ca933ef67469941e2d00eea",
-      "size": 19603968
+      "sha256": "55e2e37b5981cf59fb6fa7e90e418e1773665d081d28c08d17c99bd172492d0b",
+      "size": 19612160
     },
     {
       "file": "Chuletitas.exe",
       "url": "https://raw.githubusercontent.com/rickgam34/chuletitas-channel/main/files/Chuletitas.exe",
-      "sha256": "86a94e620fe112f331ad58a86e278b090b3e6104f143c280ef782919600d9ead",
+      "sha256": "a04fa6ca11f54829ab3c278552273f69290371759a62c7d2c68114a2a3c85058",
       "size": 184832
     },
     {
@@ -1385,5 +1385,5 @@
       "size": 100648
     }
   ],
-  "releaseNotes": "v2.4.51: Tiendita de iconos con XP (24 iconos pixel-art comprables, pesta\u00f1a ICONO en perfiles), fix de notas del popup"
+  "releaseNotes": "\u2699 Override local de versi\u00f3n del loader: cambia la versi\u00f3n del loader en tu instalaci\u00f3n local sin tocar el perfil publicado (ideal para probar compatibilidad de mods). Insignia \ud83d\udd27 y bot\u00f3n para restaurar."
 }
