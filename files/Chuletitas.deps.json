@@ -7,17 +7,17 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {},
     ".NETCoreApp,Version=v8.0/win-x64": {
-      "Chuletitas/2.4.57": {
+      "Chuletitas/2.4.58": {
         "dependencies": {
           "Avalonia": "11.2.5",
           "Avalonia.Desktop": "11.2.5",
           "Avalonia.Fonts.Inter": "11.2.5",
           "Avalonia.Themes.Fluent": "11.2.5",
-          "Chuletitas.Contracts": "2.4.57",
-          "Chuletitas.Module.CrashReporter": "2.4.57",
-          "Chuletitas.Module.CreatorServices": "2.4.57",
-          "Chuletitas.Module.Game": "2.4.57",
-          "Chuletitas.Module.Profiles": "2.4.57",
+          "Chuletitas.Contracts": "2.4.58",
+          "Chuletitas.Module.CrashReporter": "2.4.58",
+          "Chuletitas.Module.CreatorServices": "2.4.58",
+          "Chuletitas.Module.Game": "2.4.58",
+          "Chuletitas.Module.Profiles": "2.4.58",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.31"
         },
         "runtime": {
@@ -1091,65 +1091,65 @@
           }
         }
       },
-      "Chuletitas.Contracts/2.4.57": {
+      "Chuletitas.Contracts/2.4.58": {
         "runtime": {
           "Chuletitas.Contracts.dll": {
-            "assemblyVersion": "2.4.57",
-            "fileVersion": "2.4.57.0"
+            "assemblyVersion": "2.4.58",
+            "fileVersion": "2.4.58.0"
           }
         }
       },
-      "Chuletitas.Module.CrashReporter/2.4.57": {
+      "Chuletitas.Module.CrashReporter/2.4.58": {
         "dependencies": {
-          "Chuletitas.Contracts": "2.4.57",
+          "Chuletitas.Contracts": "2.4.58",
           "Google.Apis.Drive.v3": "1.76.0.4261"
         },
         "runtime": {
           "Chuletitas.Module.CrashReporter.dll": {
-            "assemblyVersion": "2.4.57",
-            "fileVersion": "2.4.57.0"
+            "assemblyVersion": "2.4.58",
+            "fileVersion": "2.4.58.0"
           }
         }
       },
-      "Chuletitas.Module.CreatorServices/2.4.57": {
+      "Chuletitas.Module.CreatorServices/2.4.58": {
         "dependencies": {
-          "Chuletitas.Contracts": "2.4.57",
+          "Chuletitas.Contracts": "2.4.58",
           "Google.Apis.Drive.v3": "1.76.0.4261"
         },
         "runtime": {
           "Chuletitas.Module.CreatorServices.dll": {
-            "assemblyVersion": "2.4.57",
-            "fileVersion": "2.4.57.0"
+            "assemblyVersion": "2.4.58",
+            "fileVersion": "2.4.58.0"
           }
         }
       },
-      "Chuletitas.Module.Game/2.4.57": {
+      "Chuletitas.Module.Game/2.4.58": {
         "dependencies": {
-          "Chuletitas.Contracts": "2.4.57",
+          "Chuletitas.Contracts": "2.4.58",
           "System.ServiceProcess.ServiceController": "10.0.12"
         },
         "runtime": {
           "Chuletitas.Module.Game.dll": {
-            "assemblyVersion": "2.4.57",
-            "fileVersion": "2.4.57.0"
+            "assemblyVersion": "2.4.58",
+            "fileVersion": "2.4.58.0"
           }
         }
       },
-      "Chuletitas.Module.Profiles/2.4.57": {
+      "Chuletitas.Module.Profiles/2.4.58": {
         "dependencies": {
-          "Chuletitas.Contracts": "2.4.57"
+          "Chuletitas.Contracts": "2.4.58"
         },
         "runtime": {
           "Chuletitas.Module.Profiles.dll": {
-            "assemblyVersion": "2.4.57",
-            "fileVersion": "2.4.57.0"
+            "assemblyVersion": "2.4.58",
+            "fileVersion": "2.4.58.0"
           }
         }
       }
     }
   },
   "libraries": {
-    "Chuletitas/2.4.57": {
+    "Chuletitas/2.4.58": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1397,27 +1397,27 @@
       "path": "tmds.dbus.protocol/0.20.0",
       "hashPath": "tmds.dbus.protocol.0.20.0.nupkg.sha512"
     },
-    "Chuletitas.Contracts/2.4.57": {
+    "Chuletitas.Contracts/2.4.58": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Chuletitas.Module.CrashReporter/2.4.57": {
+    "Chuletitas.Module.CrashReporter/2.4.58": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Chuletitas.Module.CreatorServices/2.4.57": {
+    "Chuletitas.Module.CreatorServices/2.4.58": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Chuletitas.Module.Game/2.4.57": {
+    "Chuletitas.Module.Game/2.4.58": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Chuletitas.Module.Profiles/2.4.57": {
+    "Chuletitas.Module.Profiles/2.4.58": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
